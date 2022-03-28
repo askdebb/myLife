@@ -7,3 +7,6 @@ Is it worth it?
 
 SO I have been able to us ubuntu ssh to work on my assignment at work. 
 very awesome
+
+IM using git bash cli and not the cmd . aawesome innit?
+
